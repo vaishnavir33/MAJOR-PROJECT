@@ -1,1 +1,1 @@
-This is for my Major Project
+This Repository is for my Major Project
